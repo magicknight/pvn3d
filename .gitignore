@@ -5,3 +5,4 @@
 ****/*.so
 build
 ****/knn
+*.pth
